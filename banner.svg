@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Jordan Emmanuel Vattiprolu — Software Engineer | AI Automation | Cybersecurity">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050B1A"/>
+      <stop offset="0.55" stop-color="#0B1630"/>
+      <stop offset="1" stop-color="#140F2E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <radialGradient id="glowL" cx="0.12" cy="0.2" r="0.5">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowR" cx="0.9" cy="0.85" r="0.5">
+      <stop offset="0" stop-color="#A855F7" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#3B82F6" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="320" rx="20"/></clipPath>
+    <style>
+      .name { font: 700 58px 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif; letter-spacing: 1px; }
+      .sub  { font: 500 22px 'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif; letter-spacing: 3px; }
+      .mono { font: 500 14px 'Cascadia Code', Consolas, 'Courier New', monospace; letter-spacing: 2px; }
+      .scan { animation: scan 6s ease-in-out infinite; }
+      @keyframes scan { 0%, 100% { opacity: 0.35; } 50% { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) { .scan { animation: none; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <rect width="1200" height="320" fill="url(#glowL)"/>
+    <rect width="1200" height="320" fill="url(#glowR)"/>
+
+    <!-- corner brackets -->
+    <path d="M40 70V40H70M1160 70V40H1130M40 250V280H70M1160 250V280H1130" fill="none" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.7"/>
+
+    <text x="600" y="92" text-anchor="middle" class="mono" fill="#38BDF8" fill-opacity="0.8">&lt; SOFTWARE ENGINEER /&gt;</text>
+    <text x="600" y="168" text-anchor="middle" class="name" fill="#F1F5FF">Jordan Emmanuel Vattiprolu</text>
+    <rect x="390" y="194" width="420" height="3" rx="1.5" fill="url(#accent)" class="scan"/>
+    <text x="600" y="242" text-anchor="middle" class="sub" fill="#A5B4FC">Software Engineer  |  AI Automation  |  Cybersecurity</text>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="20" fill="none" stroke="url(#accent)" stroke-opacity="0.35"/>
+</svg>
