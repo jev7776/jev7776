@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Jordan Emmanuel Vattiprolu — Software Engineer | AI Automation | Cybersecurity" />
+<img src="banner.svg" width="100%" alt="Jordan Emmanuel Vattiprolu — Software Engineer | AI Automation | Cybersecurity" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=600&lines=Backend+systems+built+to+last;AI+integrations+with+guardrails;Security-conscious+by+design" alt="Backend systems built to last · AI integrations with guardrails · Security-conscious by design" />
 
@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## About
 
