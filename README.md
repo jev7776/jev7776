@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=600&lines=Backend+systems+built+to+last;AI+integrations+with+guardrails;Security-conscious+by+design" alt="Backend systems built to last · AI integrations with guardrails · Security-conscious by design" />
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-0B1630?style=for-the-badge&logo=maildotru&logoColor=22D3EE" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/jordan-emmanuel-vattiprolu-061310276/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:IJV1312@gmail.com"><img src="https://img.shields.io/badge/Email-0B1630?style=for-the-badge&logo=maildotru&logoColor=22D3EE" alt="Email" /></a>
 <a href="https://github.com/jev7776"><img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
